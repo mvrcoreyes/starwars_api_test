@@ -2,6 +2,10 @@
 
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
 
+
+## Star Wars API Test for SIM
+I build this app using typescript and remixJS
+
 ## Development
 
 Run the Vite dev server:
